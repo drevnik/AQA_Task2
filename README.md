@@ -1,5 +1,5 @@
 
-[![Build status](https://ci.appveyor.com/api/projects/status/fr4jqns4e24e2edh?svg=true)](https://ci.appveyor.com/project/drevnik/aqa-task2)
+[![Build status](https://ci.appveyor.com/api/projects/status/lkqiehlf4lbapkai?svg=true)](https://ci.appveyor.com/project/drevnik/aqa-task2)
 
 
 
